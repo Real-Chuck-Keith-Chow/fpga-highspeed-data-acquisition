@@ -1,0 +1,23 @@
+# Core numerical and scientific libraries
+numpy==1.26.4
+scipy==1.12.0
+
+# Data processing & visualization
+pandas==2.2.1
+matplotlib==3.8.3
+seaborn==0.13.2
+
+# Serial communication for UART data collection
+pyserial==3.5
+
+# Testing & simulation automation
+pytest==8.0.0
+
+# Report generation for generate_test_report.py
+reportlab==4.1.0
+
+# Optional: Logic analyzer integration (Saleae API)
+saleae==1.2.0
+
+# Development utilities
+jupyter==1.0.0
