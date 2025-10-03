@@ -1,4 +1,4 @@
-# 🚀 AMD-Grade FPGA High-Speed Data Acquisition System
+# 🚀 FPGA High-Speed Data Acquisition System
 **Achieving Sub-Microsecond Latency on Xilinx Artix-7 FPGA**
 
 [![Verilog](https://img.shields.io/badge/Verilog-76.9%25-blue.svg)](https://github.com/Real-Chuck-Ketin-Chow/fpga-highspeed-data-acquisition)
